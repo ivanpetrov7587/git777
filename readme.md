@@ -188,6 +188,6 @@ id sem consectetuer libero luctus adipiscing.
 [![Alt text](//placehold.it/150x100)](http://example.com/)
 
 
-ни фига себе!!!
+ни фига себе!!! 
 
 огогого
