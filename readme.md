@@ -186,3 +186,6 @@ id sem consectetuer libero luctus adipiscing.
 Картинки-ссылки:
 
 [![Alt text](//placehold.it/150x100)](http://example.com/)
+
+
+ни фига себе
